@@ -1,0 +1,5 @@
+ require File.expand_path('lib/calculador_de_descontos')
+ require File.expand_path('lib/orcamento')
+ require File.expand_path('lib/Descontos/desconto_por_mais_de_quinhentos_reais')
+ require File.expand_path('lib/Descontos/desconto_por_cinco_itens')
+ require File.expand_path('lib/Descontos/sem_desconto')
